@@ -13,8 +13,7 @@ ser=serial.Serial('COM5',1200)
 assert(ser!=None)
 
 #输入学号
-studentID='202108060207'
-
+studentID='xxxxxx' #自己学号
 #判断学号是否正确
 assert(studentID.isdigit() and len(studentID)==12)
 
