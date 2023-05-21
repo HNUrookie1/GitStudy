@@ -1,7 +1,10 @@
 # GitStudy
+> **自我介绍**
 This is a rooike's repository.If you think it's useful to you,I will feel very happy!
-下面内容引自https://github.com/betaseeker/How-To-Ask-Questions/blob/master/README.md，引自[taoweng](http://taoweng.site/index.php/author/1/)，
-觉得说的很有道理，在此引用一下。
+
+下面内容引自https://github.com/betaseeker/How-To-Ask-Questions/blob/master/README.md，
+引自[taoweng](http://taoweng.site/index.php/author/1/)，
+很喜欢作者所写，故拿出与诸君分享。
 
 
 # How-To-Ask-Questions
